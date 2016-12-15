@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jumidi/jmd-frontend/issues"
   },
-  "homepage": "https://github.com/jumidi/jmd-frontend#readme"
+  "homepage": "https://github.com/jumidi/jmd-frontend#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.0"
+  }
 }
