@@ -1,0 +1,22 @@
+{
+  "name": "jmd-frontend",
+  "description": "Proyecto para practicar técnicas y librerías frontend",
+  "main": "index.html",
+  "authors": [
+    "jmd"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jumidi/jmd-frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "font-awesome": "^4.7.0"
+  }
+}

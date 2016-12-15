@@ -1,0 +1,19 @@
+{
+  "name": "jmd-frontend",
+  "version": "0.0.1",
+  "description": "Proyecto para practicar técnicas y librerías frontend",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumidi/jmd-frontend.git"
+  },
+  "author": "jmd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumidi/jmd-frontend/issues"
+  },
+  "homepage": "https://github.com/jumidi/jmd-frontend#readme"
+}
